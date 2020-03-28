@@ -1,8 +1,13 @@
 // ==UserScript==
 // @name         Copy rendered key
 // @version      0.1
-// @description  try to take over the world!
-// @author       dph
+// @description  A Tampermonkey script for copying redeemed keys of Humble Bundle.com
+// @author       行者丁
+// @namespace    https://github.com/CleverPuppy/Copy_Redeemed_Keys
+// @supportURL   https://github.com/CleverPuppy/Copy_Redeemed_Keys/issues
+// @version      0.1
+// @updateURL    https://raw.githubusercontent.com/CleverPuppy/Copy_Redeemed_Keys/master/script.js
+// @downloadURL  https://raw.githubusercontent.com/CleverPuppy/Copy_Redeemed_Keys/master/script.js
 // @icon         https://humblebundle-a.akamaihd.net/static/hashed/46cf2ed85a0641bfdc052121786440c70da77d75.png
 // @include      https://www.humblebundle.com/downloads*
 // @grant        none

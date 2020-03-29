@@ -6,8 +6,8 @@
 // @namespace    https://github.com/CleverPuppy/Copy_Redeemed_Keys
 // @supportURL   https://github.com/CleverPuppy/Copy_Redeemed_Keys/issues
 // @version      1.0
-// @updateURL    https://raw.githubusercontent.com/CleverPuppy/Copy_Redeemed_Keys/master/script.js
-// @downloadURL  https://raw.githubusercontent.com/CleverPuppy/Copy_Redeemed_Keys/master/script.js
+// @updateURL    https://github.com/CleverPuppy/Copy_Redeemed_Keys/raw/master/CRK.user.js
+// @downloadURL  https://github.com/CleverPuppy/Copy_Redeemed_Keys/raw/master/CRK.user.js
 // @icon         https://humblebundle-a.akamaihd.net/static/hashed/46cf2ed85a0641bfdc052121786440c70da77d75.png
 // @include      https://www.humblebundle.com/downloads*
 // @grant        none

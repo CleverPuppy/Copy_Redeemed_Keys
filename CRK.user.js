@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Copy redeemed key
-// @version      0.9
+// @version      0.91
 // @description  A Tampermonkey script for copying redeemed keys of Humble Bundle.com
 // @author       行者丁
 // @namespace    https://github.com/CleverPuppy/Copy_Redeemed_Keys
@@ -61,7 +61,15 @@
             setTimeout(function () { insertHTML(); }, 500);
             return;
         }
+
+
         const total_game_num = key_redeemer_list.length;
+        
+        //set background to white
+        for(var i = 0; i < total_game_num; ++i)
+        {
+            key_redeemer_list[i].setAttribute('style','background:white');
+        }
 
         const base = document.getElementsByClassName('key-list')[0].parentElement;
         const insertElem = document.createElement("div");
